@@ -6,7 +6,6 @@ Web Developer
 
 
 * 🌍  I'm based in Visakhapatnam, India
-* 🖥️  See my portfolio at [sindhu-149.github.io](https://sindhu-149.github.io)
 * ✉️  You can contact me at [sindhukanarao149@gmail.com](mailto:sindhukanarao149@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
